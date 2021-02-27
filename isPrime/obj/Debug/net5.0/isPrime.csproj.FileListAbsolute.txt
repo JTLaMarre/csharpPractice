@@ -1,0 +1,16 @@
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\obj\Debug\net5.0\isPrime.csprojAssemblyReference.cache
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\obj\Debug\net5.0\isPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\obj\Debug\net5.0\isPrime.AssemblyInfoInputs.cache
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\obj\Debug\net5.0\isPrime.AssemblyInfo.cs
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\obj\Debug\net5.0\isPrime.csproj.CoreCompileInputs.cache
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\bin\Debug\net5.0\isPrime.exe
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\bin\Debug\net5.0\isPrime.deps.json
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\bin\Debug\net5.0\isPrime.runtimeconfig.json
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\bin\Debug\net5.0\isPrime.runtimeconfig.dev.json
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\bin\Debug\net5.0\isPrime.dll
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\bin\Debug\net5.0\ref\isPrime.dll
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\bin\Debug\net5.0\isPrime.pdb
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\obj\Debug\net5.0\isPrime.dll
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\obj\Debug\net5.0\ref\isPrime.dll
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\obj\Debug\net5.0\isPrime.pdb
+C:\Users\lorda\Sandbox\revature\csharpPractice\isPrime\obj\Debug\net5.0\isPrime.genruntimeconfig.cache

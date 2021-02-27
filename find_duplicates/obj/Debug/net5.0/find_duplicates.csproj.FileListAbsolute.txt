@@ -1,0 +1,16 @@
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\obj\Debug\net5.0\find_duplicates.csprojAssemblyReference.cache
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\obj\Debug\net5.0\find_duplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\obj\Debug\net5.0\find_duplicates.AssemblyInfoInputs.cache
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\obj\Debug\net5.0\find_duplicates.AssemblyInfo.cs
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\obj\Debug\net5.0\find_duplicates.csproj.CoreCompileInputs.cache
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\bin\Debug\net5.0\find_duplicates.exe
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\bin\Debug\net5.0\find_duplicates.deps.json
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\bin\Debug\net5.0\find_duplicates.runtimeconfig.json
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\bin\Debug\net5.0\find_duplicates.runtimeconfig.dev.json
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\bin\Debug\net5.0\find_duplicates.dll
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\bin\Debug\net5.0\ref\find_duplicates.dll
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\bin\Debug\net5.0\find_duplicates.pdb
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\obj\Debug\net5.0\find_duplicates.dll
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\obj\Debug\net5.0\ref\find_duplicates.dll
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\obj\Debug\net5.0\find_duplicates.pdb
+C:\Users\lorda\Sandbox\revature\csharpPractice\find_duplicates\obj\Debug\net5.0\find_duplicates.genruntimeconfig.cache

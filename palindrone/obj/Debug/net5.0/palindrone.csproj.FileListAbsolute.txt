@@ -1,0 +1,16 @@
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\bin\Debug\net5.0\palindrone.exe
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\bin\Debug\net5.0\palindrone.deps.json
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\bin\Debug\net5.0\palindrone.runtimeconfig.json
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\bin\Debug\net5.0\palindrone.runtimeconfig.dev.json
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\bin\Debug\net5.0\palindrone.dll
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\bin\Debug\net5.0\ref\palindrone.dll
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\bin\Debug\net5.0\palindrone.pdb
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\obj\Debug\net5.0\palindrone.csprojAssemblyReference.cache
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\obj\Debug\net5.0\palindrone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\obj\Debug\net5.0\palindrone.AssemblyInfoInputs.cache
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\obj\Debug\net5.0\palindrone.AssemblyInfo.cs
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\obj\Debug\net5.0\palindrone.csproj.CoreCompileInputs.cache
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\obj\Debug\net5.0\palindrone.dll
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\obj\Debug\net5.0\ref\palindrone.dll
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\obj\Debug\net5.0\palindrone.pdb
+C:\Users\lorda\Sandbox\revature\csharpPractice\palindrone\obj\Debug\net5.0\palindrone.genruntimeconfig.cache
